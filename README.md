@@ -5,10 +5,6 @@
 - Node
 - Npm
 
-## Instalando Deps
-
-Basta rodar `npm i` para instalar as depedências necessárias.
-
 ## Condigurando o .env
 
 Copie para um arquivo .env o .env.example fornecido
